@@ -10,8 +10,8 @@ title: Minimal
 email: tchicotti@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Para deixar de ser besta e começar a fazer as coisas que eu preciso fazer.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://tchicotti.github.com" # the base hostname & protocol for your site
+baseurl: "/minimal-blog-tchicotti" # the subpath of your site, e.g. /blog
+url: "http://tchicotti.github.io" # the base hostname & protocol for your site
 twitter_username: tchicotti
 github_username:  tchicotti
 
